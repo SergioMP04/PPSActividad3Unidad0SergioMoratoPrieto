@@ -36,7 +36,7 @@ git config --global user.name "SergioMP04"
 git config --global user.email "smoratop02@informatica.iesvalledeljerteplasencia.es"
 ```
 
-![Configuración de la cuenta ](imagenes\Config_Git.PNG)
+![Configuración de la cuenta ](imagenes/Config_Git.PNG)
 
 ### 3.1. Creación de la clave SSH
 
