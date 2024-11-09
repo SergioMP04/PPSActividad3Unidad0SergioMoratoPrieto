@@ -8,7 +8,7 @@ Esta guía cubre los pasos para crear una cuenta en GitHub, configurar Git en Ka
 2. Completa el formulario con tu **nombre de usuario**, **dirección de correo electrónico** y **contraseña**.
 3. Verifica tu dirección de correo electrónico al hacer clic en el enlace de verificación enviado a tu bandeja de entrada.
 4. Una vez verificado, completa la configuración inicial en GitHub siguiendo los pasos de su asistente.
-![Creación de cuenta](imagenes\Creacion_Cuenta.PNG)
+![Creación de cuenta](imagenes/Creacion_Cuenta.PNG)
 
 ## 2. Instalación de Git en Kali Linux
 
@@ -46,7 +46,7 @@ Genera una clave SSH para usarla en GitHub:
 ssh-keygen -t rsa -b 4096 -C "smoratop02@informatica.iesvalledeljerteplasencia.es"
 ```
 
-![](imagenes\Generate_Key.PNG)
+![](imagenes/Generate_Key.PNG)
 
 ## 4. Agregar la clave SSH a GitHub
 
@@ -61,7 +61,7 @@ Selecciona y copia la salida que aparece.
 1. En GitHub, ve a Settings (configuración) desde tu perfil.
 2. Dirígete a SSH and GPG keys y haz clic en New SSH key.
 3. Pega tu clave pública en el campo correspondiente y asigna un nombre para identificarla, por ejemplo, Kali Linux.
-![](imagenes\Configuración_Claves.PNG)
+![](imagenes/Configuración_Claves.PNG)
 
 ---
 
@@ -85,7 +85,7 @@ Selecciona y copia la salida que aparece.
    cd /ruta/a/tu/carpeta/PPSActividad3Unidad0SergioMoratoPrieto
    ```
 
-![Creación del repo](imagenes\Creación_Repo.PNG)
+![Creación del repo](imagenes/Creación_Repo.PNG)
 
 ## 5.3 Inicializa el repositorio Git en la carpeta
 
