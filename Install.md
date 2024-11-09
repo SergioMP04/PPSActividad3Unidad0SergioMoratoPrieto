@@ -13,6 +13,6 @@ sudo apt update
 sudo apt install git php -y 
 ```
 
-![Install](imagenes\Install_Git_PHP.PNG)
+![Install](imagenes/Install_Git_PHP.PNG)
 
 ---
