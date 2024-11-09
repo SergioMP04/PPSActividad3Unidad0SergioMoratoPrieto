@@ -7,17 +7,17 @@ Este archivo detalla los comandos de Git empleados a lo largo de la práctica, c
 Para iniciar un nuevo proyecto de Git en el directorio actual:
 
 ```bash
-git init
+git config --global user.name "SergioMP04"
 
-cd /ruta/a/tu/carpeta/PPSActividad3Unidad0SergioMoratoPrieto
+git config --global user.email "smoratop02@informatica.iesvalledeljerteplasencia.es"
 
 git init
 
 git add .
 
-git commit -m "Primer commit con el proyecto PPSActividad3Unidad0SergioMoratoPrieto"
+git commit -m "Mensaje del commit"
 
-git remote add origin git@github.com:TuUsuario/PPSActividad3Unidad0SergioMoratoPrieto.git
+git remote add origin git@github.com:TuUsuario/TuRepositorio.git
 
 git push -u origin main
 
