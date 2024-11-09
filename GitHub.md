@@ -1,6 +1,24 @@
 # Guía para crear una cuenta de GitHub y usar Git en Kali Linux
 
-Esta guía cubre los pasos para crear una cuenta en GitHub, configurar Git en Kali Linux y usarlo para crear repositorios y gestionar claves SSH.
+# Guía para crear una cuenta de GitHub y usar Git en Kali Linux
+
+Bienvenido a esta guía completa sobre Git y GitHub en Kali Linux. A continuación, aprenderás a crear una cuenta en GitHub, instalar y configurar Git en tu máquina Kali Linux, y gestionar repositorios y claves SSH para facilitar el trabajo colaborativo y el control de versiones. Esta guía está diseñada para usuarios que buscan una referencia práctica y directa para comenzar a usar Git y GitHub.
+
+## Índice
+
+1. [Crear una cuenta en GitHub](#1-crear-una-cuenta-en-github)
+2. [Instalación de Git en Kali Linux](#2-instalación-de-git-en-kali-linux)
+   - [Verificación de la instalación](#21-verificación-de-la-instalación)
+3. [Configuración de Git](#3-configuración-de-git)
+   - [Creación de la clave SSH](#31-creación-de-la-clave-ssh)
+4. [Agregar la clave SSH a GitHub](#4-agregar-la-clave-ssh-a-github)
+5. [Creación de repositorio en GitHub](#5-creación-de-repositorio-en-github)
+   - [Crear un repositorio en GitHub](#51-crear-un-repositorio-en-github)
+   - [Inicializar el repositorio local](#52-inicializar-el-repositorio-local)
+   - [Inicializar el repositorio Git en la carpeta](#53-inicializar-el-repositorio-git-en-la-carpeta)
+   - [Agregar archivos y hacer un commit](#54-agregar-archivos-y-hacer-un-commit)
+   - [Conectar el repositorio local con GitHub](#55-conectar-el-repositorio-local-con-github)
+   - [Subir los archivos al repositorio de GitHub](#56-subir-los-archivos-al-repositorio-de-github)
 
 ## 1. Crear una cuenta en GitHub
 
